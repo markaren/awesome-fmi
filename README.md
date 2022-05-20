@@ -38,6 +38,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 #### C++
 - [FMI++](https://sourceforge.net/projects/fmipp/) - C++ library for import and export of FMUs. [BSD]
 - [FMI4cpp](https://github.com/NTNU-IHB/FMI4cpp) - FMI 2.0 implementation written in modern C++. [MIT]
+- [FMU4cpp](https://github.com/Vico-platform/fmu4cpp) - Framework for exporting FMUs written in C++. [MIT]
 
 #### Python
 - [PyFMI](https://github.com/modelon-community/pyfmi) - Python package for loading and interacting with FMUs, based on the FMI Library. [LGPL]
@@ -48,7 +49,8 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 - [PythonFMU](https://github.com/NTNU-IHB/PythonFMU) - Framework for exporting Python code as FMUs. [MIT]
 
 #### Java
-- [FMI4j](https://github.com/NTNU-IHB/FMI4j) - Java/Kotlin library for dealing with FMUs on the JVM platform. [MIT]
+- [FMI4j](https://github.com/NTNU-IHB/FMI4j) - Java/Kotlin library for importing FMUs. [MIT]
+- [FMU4j](https://github.com/Vico-platform/FMU4j) - Java/Kotlin framework for exporting FMUs. [MIT]
 - [javaFMI](https://bitbucket.org/siani/javafmi) - Java library for import and export of FMUs. [LGPL3]
 
 #### MATLAB/Simulink
